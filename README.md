@@ -1,4 +1,4 @@
-# MultipleMSTeamsInstances
+# Multiple MS Teams Instances
 Run multiple instances of MS Teams application on a machine
 In our office, the people need to be logged into the corporate account and a business (client) for communication in client's network but we can run only 1 instance of MS Teams by default. There is a user voice on the same rum multiple instances on a machine. 
 
@@ -27,6 +27,6 @@ cd "%OLD_USERPROFILE%\AppData\Local\Microsoft\Teams"
 Save the above file on your machine with extension ".bat" or with ".cmd"
 Once you have your Teams Application Running with one profile double click on the Batch File second instance of the application will be initiated automatically. You can login with same profile or different profile basis on your need.
 
-Limitation:
+**Limitation**:
 You are using the multiple instances of the application so you cannot download the documents or files from the second version as the first version is already associated with your drive. We can always edit the document in the Microsoft Teams Application without any issues.
 
